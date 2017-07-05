@@ -1,0 +1,36 @@
+/* reset */
+body {
+    margin: 0;
+}
+/* main */
+.wrap {
+    padding: 3% 0 0 3%;
+}
+.square {
+    float: left;
+    padding: 30% 0 0 0;
+    margin: 0 3% 3% 0;
+    width: 30%;
+    background: orange;
+    border-radius: 10px;
+}
+.btn{
+    background: #fff;
+    width: 100%;
+    height: 40px;
+    border:none;
+    border-radius: 5px;
+    color: orange;
+    text-align: center;
+    border: 1px solid orange;
+    margin-top: 10px;
+}
+.btn:hover{
+    background: orange;
+    width: 100%;
+    height:40px;
+    border:none;
+    border-radius:5px;
+    color:#fff;
+    text-align: center;
+}
